@@ -1,0 +1,42 @@
+STEP translation to Solid Edge
+Date: Montag,November 25,2024 09:00
+Source File: C:\Users\Administrator\Downloads\IHM-samkoon-4-ihm-samkoon-7-1.snapshot.4\IHM SANKOON  7''.stp
+Author: Tiago
+Organization: Unknown
+Source System: Autodesk Inventor 2024
+
+Hardware:
+Processor: Intel(R) Celeron(R) N4000C CPU @ 1.10GHz
+Operating System: Windows 10 Professional
+Installed Memory: 11.81 GB
+
+Software Information
+Parasolid Version: 34.0.153
+PSBodyShop Version: 34.0.110
+Step Adapter Version: 9.0.92
+Solid Edge Version: 222.00.00.132 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\Users\Administrator\Downloads\IHM-samkoon-4-ihm-samkoon-7-1.snapshot.4
+Import Enable Default Output Path: On
+Import PMI: Off
+Import As Internal Components: Off
+Import Path: 
+
+Translating to Parasolid data types...
+Placing C:\Users\Administrator\Downloads\IHM-samkoon-4-ihm-samkoon-7-1.snapshot.4\SANKOON  7 POL.par
+Translation process completed
+Total time required to translate and post process:00 : 00 : 03

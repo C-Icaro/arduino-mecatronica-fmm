@@ -1,0 +1,31 @@
+Solid Edge Translation to STEP
+Date: Sonntag,Dezember 01,2024 08:54
+Output File: C:\Users\Administrator\Documents\Mago\Modelagem 3D - Pablo\Assembly-Caminhão.stp
+Author: Unknown
+Organization: Unknown
+Source System: Solid Edge
+
+Hardware:
+Processor: Intel(R) Celeron(R) N4000C CPU @ 1.10GHz
+Operating System: Windows 10 Professional
+Installed Memory: 11.81 GB
+
+Software Information
+Parasolid Version: 34.0.153
+PSBodyShop Version: 34.0.110
+Step Adapter Version: 9.0.92
+Solid Edge Version: 222.00.00.132 x64
+
+STEP Export Options
+Export Format: AP214
+Export Construction Sheets: Off
+Export Construction Solids: Off
+Export Construction Wires: Off
+Export Displayed Parts Only: Off
+Export Units: Millimeters
+Export Part Component Names As Unicode: Off
+Export PMI: Off
+
+Phase 1 of 1 Translating Parasolid to foreign data types...
+Translation process completed
+Time required to translate:00 : 00 : 03
