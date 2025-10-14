@@ -1,6 +1,6 @@
 # 🚀 Repositório Arduino - Projetos de Mecatrônica
 
-Este repositório contém uma coleção organizada de projetos Arduino e ESP32 + Factory.io que fiz durante o Ensino Médio Técnico em Mecatrônica, com exceção daqueles que se perderam com o tempo.
+Este repositório contém uma coleção organizada de projetos Arduino e ESP32 + Factory.io que fiz durante o Ensino Médio Técnico em Mecatrônica, de Janeiro de 2022 até Dezembro de 2024, com exceção daqueles que se perderam com o tempo.
 
 ## 📖 Sobre o Repositório
 
@@ -167,5 +167,5 @@ Este repositório é um registro do aprendizado em mecatrônica. Sinta-se à von
 
 ---
 
-**Desenvolvido durante o Ensino Médio Técnico em Mecatrônica da Fundação Matias Machline**  
+**Desenvolvido durante o Ensino Médio Técnico em Mecatrônica da Fundação Matias Machline, de Janeiro de 2022 até Dezembro de 2024.**  
 *Projetos práticos para aprendizado e aplicação real*
